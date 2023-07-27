@@ -15,7 +15,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp; Spherical convolution based on inverse equirectangular projection
 
-![](../../Images/OmniLayout.png)
+![](../../../Images/OmniLayout.png)
 
 - **Inpsied by**：
 
