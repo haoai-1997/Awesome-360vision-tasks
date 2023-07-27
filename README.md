@@ -5,7 +5,7 @@ Deep Learning for Omnidirectional Vision: A Survey and New Perspectives
 
 ### &hearts; [Omnidirectional Vision Tasks](Tasks)
 
-&nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***Scene Understanding***](Tasks/Scene%20Understanding)
+&nbsp; &nbsp; &nbsp; &nbsp; :smiley: [***Scene Understanding***]
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; :wink: [Room Layout estimation](Tasks/Scene%20Understanding/Room%20Layout%20estimation)
 
