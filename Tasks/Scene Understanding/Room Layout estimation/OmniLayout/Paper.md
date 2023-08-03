@@ -20,6 +20,7 @@
 - **Inpsied by**：
 
 &nbsp; &nbsp; &nbsp; &nbsp; - The main network architecture is based on HorizonNet;
+
 &nbsp; &nbsp; &nbsp; &nbsp; - The spherical convolution is inspired by SphereNet and Clebsch-GordanNets.
 
 - **Motivation for us**：
